@@ -24,7 +24,7 @@ Check it out!
 ### Links
 
 - Solution URL: [Solution here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-vgsstudio-Pk8E8fSQW)
-- Live Site URL: [Live site heree](https://vgsstudio.github.io/Stats-preview-card-component-challenge/)
+- Live Site URL: [Live site here](https://vgsstudio.github.io/Stats-preview-card-component-challenge/)
 
 ## My process
 
